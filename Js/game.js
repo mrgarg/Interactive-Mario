@@ -51,7 +51,7 @@ function preload()
     this.load.image("coco","Assets/coco.png");
     this.load.image("mountain","Assets/mountain.png");
     this.load.image("brick","Assets/brick.png");
-    this.load.image("tree1","Assets/tree1.png");
+    this.load.image("tree1","Assets/Tree1.png");
     this.load.image("cloud","Assets/cloud.png");
     this.load.image("bird","Assets/birds.png");
     this.load.image("bug_left","Assets/bug.png");
